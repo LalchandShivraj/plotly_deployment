@@ -20,6 +20,8 @@ The four deliverables were done and the dashboard was customeized to include:
 3. Add background color to the page.
 4. Add more information about the project and Biodiversity.
 5. make the webpage mobile-responsive
+![Belly_Button_Dashboard](https://user-images.githubusercontent.com/78666055/119271228-a4f35680-bbce-11eb-8590-c93d3b945bb6.png)
+
 
 ## Summary
 
